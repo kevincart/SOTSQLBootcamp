@@ -1,3 +1,1 @@
 # SOTSQLBootcamp
-# SOTSQLBootcamp
-# SOTSQLBootcamp

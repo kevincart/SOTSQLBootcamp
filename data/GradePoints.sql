@@ -1,0 +1,9 @@
+INSERT INTO GradePoints VALUES (9, "A+");
+INSERT INTO GradePoints VALUES (8, "A");
+INSERT INTO GradePoints VALUES (7, "A-");
+INSERT INTO GradePoints VALUES (6, "B+");
+INSERT INTO GradePoints VALUES (5, "B");
+INSERT INTO GradePoints VALUES (4, "B-");
+INSERT INTO GradePoints VALUES (3, "C+");
+INSERT INTO GradePoints VALUES (2, "C");
+INSERT INTO GradePoints VALUES (1, "D");
